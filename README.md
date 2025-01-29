@@ -1,8 +1,8 @@
-# Project Title
-Deimos Corp
+# Sitio Web
+Archivos para el sitio web de la empresa Deimos Corp
 
 ## Uso 🚀
-Archivos del sitio web [deimoscorp.cl](https://web.deimoscorp.cl/)
+Sitio web [deimoscorp.cl](https://web.deimoscorp.cl/)
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
